@@ -9,7 +9,8 @@ urls=(
   https://adaway.org/hosts.txt
   https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
   https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/domain.txt
-  https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/multi.txt
+  https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/light-onlydomains.txt
+  https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/pro.mini-onlydomains.txt
 )
 
 # download all files in parallel and append them to blocklist.txt
