@@ -30,6 +30,7 @@ urls=(
     https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
     https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/light.txt
     https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+    https://raw.githubusercontent.com/nextdns/click-tracking-domains/main/domains
     # Commented out because it whitelists sites including doubleclick.net and ad.atdmt.com
     # https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/referral-sites.txt
     # Uncomment the line below to use OISD's most commmonly whitelisted list
